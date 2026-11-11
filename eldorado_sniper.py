@@ -33,7 +33,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 #                   CONFIG
 # ─────────────────────────────────────────────
 
-DISCORD_TOKEN       = "YOUR_BOT_TOKEN_HERE"
+DISCORD_TOKEN       = "MTU3MDE5MTg5NDYyMzk1Mjk3Ng.G3wLJh.tLTXI3vMcMwS_ll-4v4PRcfUXmCb3RYtFZ5AA "
 ALERT_CHANNEL_ID    = 1570191400526549116      # Channel ID to post alerts in
 
 # ── Price thresholds ──
